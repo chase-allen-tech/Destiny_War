@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "BRLNSR";
+  font-weight: 700;
+  font-style: normal;
+  src: url("BRLNSR.TTF");
+}
+
+@font-face {
+  font-family: "AmericanCaptain";
+  /* font-weight: 700; */
+  font-style: normal;
+  src: url("AmericanCaptain.otf");
+}
+
+@font-face {
+  font-family: "AgencyFB";
+  /* font-weight: 700; */
+  font-style: normal;
+  src: url("AgencyFB_bold.ttf");
+}
+
+@font-face {
+  font-family: "American";
+  font-style: normal;
+  src: url("AmericanCaptain.ttf");
+}
